@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>What is HTML?</title>
+
+<head>
+
+<body>
+
+<H1>What is HTML?</h1>
+
+<p>HTML is a markup language that lets you identify common sections of a document such as headings, paragraphs, and lists. An HTML document includes text and markup elements (tags) that identify these sections. The HTML tags indicate to the browser how each document section should be displayed.</p>
+
+<h2>Summary</h2>
+
+<ul>
+	<li>HTML is a markup langauge</li>
+	<li>An HTML file contains both text and markup tags</li>
+	<li>Markup tags identify block-level elements</li>
+	<li>Browsers use the tags to determine how the block-level elements should be displayed</li>
+</ul>
+
+</body>
+
+</html>
